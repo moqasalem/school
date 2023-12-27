@@ -2,12 +2,13 @@
 school project using node.js and react.js
 
 ## Screenshots
-
-![الرئيسية](./الرئيسية.png)
 *Main page*
 
-![القوائم](./القوائم.png)
+![الرئيسية](./الرئيسية.png)
 *Some Menues*
+
+
+![القوائم](./القوائم.png)
 
 ## Videos
 
